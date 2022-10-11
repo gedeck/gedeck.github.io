@@ -10,67 +10,87 @@
     max-width: 800px;
   }
 </style>
+
 # Books
 <table>
+ <tr>
+  <td><img src='img/OReilly-english.jpg' width=300></td>
+  <td>
+   <p><b>Practical Statistics for Data Scientists:</b></p>
+
+   <p>50+ Essential Concepts Using R and Python<br>
+by Peter Bruce, Andrew Bruce, and <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a></p>
+
+   <ul>
+    <li>Publisher: <a href="https://oreil.ly/practicalStats_dataSci_2e">O'Reilly Media</a>; 2nd edition (June 9, 2020)</li>
+   <li>ISBN-13: 978-1492072942</li>
+    <li>Buy on <a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X">Amazon</a></li>
+   <li>Errata: <a href="http://oreilly.com/catalog/errata.csp?isbn=9781492072942">http://oreilly.com/catalog/errata.csp?isbn=9781492072942</a></li>
+   </ul>
+
+<p>Code for Practial Statistics for Data Scientists is <a href="practical-statistics-for-data-scientists/">here</a>.</p>
+</td>
+  </tr>
+
 <tr>
-<td><a href="ModernStatistics"><img src="img/ModernStatistics.png" width=300></a></td>
+<td><img src="img/mlba-bookcover.png" width=300></td>
 <td>
-Modern Statistics: A Computer Based Approach with Python
+<h2>Machine Learning for Business Analytics<br>
+<small>Concepts, Techniques, and Applications in R</small></h2>
 
-by Ron Kenett, Shelemyahu Zacks, Peter Gedeck
+by Galit Shmueli, Peter C. Bruce, Peter Gedeck, Inbal Yahav, Nitin R. Patel
 
-Publisher: Springer International Publishing; 1st edition (September 15, 2022)
-ISBN-13: 978-3031075650
-Buy on 
-<a href="https://www.amazon.com/Modern-Statistics-Computer-Based-Technology-Engineering/dp/303107565X/">Amazon</a>, 
-<a href="https://www.barnesandnoble.com/w/modern-statistics-ron-kenett/1141391736">Barnes & Noble</a>
+<ul>
+<li>Publisher: Wiley; 2nd edition (February, 2023)</li>
+<li>ISBN: 978-1-118-83517-2</li>
+<li>Preorder on 
+<a href="https://www.wiley.com/en-us/Machine+Learning+for+Business+Analytics%3A+Concepts%2C+Techniques%2C+and+Applications+in+R%2C+2nd+Edition-p-9781119835172">Wiley</a></li>
+</ul>
 
-<!-- Errata: http://oreilly.com/catalog/errata.csp?isbn=9781492072942 -->
-  
-<p>Code and solutions for Modern Statistics are <a href="ModernStatistics">here</a>.</p>
+<p>Code for MLBA is <a href="mlba-R-code">here</a>.</p>
 </td>
 </tr>
 
 
-
-# Code repository
-<table>
 <tr>
 <td><a href="ModernStatistics"><img src="img/ModernStatistics.png" width=300></a></td>
 <td>
-Modern Statistics: A Computer Based Approach with Python
+<h2>Modern Statistics: A Computer Based Approach with Python</h2>
 
 by Ron Kenett, Shelemyahu Zacks, Peter Gedeck
 
-Publisher: Springer International Publishing; 1st edition (September 15, 2022)
-ISBN-13: 978-3031075650
-Buy on 
+<ul>
+<li>Publisher: Springer International Publishing; 1st edition (September 15, 2022)</li>
+<li>ISBN-13: 978-3031075650</li>
+<li>Buy on 
 <a href="https://www.amazon.com/Modern-Statistics-Computer-Based-Technology-Engineering/dp/303107565X/">Amazon</a>, 
-<a href="https://www.barnesandnoble.com/w/modern-statistics-ron-kenett/1141391736">Barnes & Noble</a>
+<a href="https://www.barnesandnoble.com/w/modern-statistics-ron-kenett/1141391736">Barnes & Noble</a></li>
+</ul>
 
 <!-- Errata: http://oreilly.com/catalog/errata.csp?isbn=9781492072942 -->
   
-<p>Code and solutions for Modern Statistics are <a href="ModernStatistics">here</a>.</p>
+<p>Code and solutions for Modern Statistics are <a href="mistat-code-solutions/ModernStatistics">here</a>.</p>
 </td>
 </tr>
 
 <tr>
 <td><!--<img src="../img/IndustrialStatistics.png" width=250>--></td>
 <td>
-  <b>Industrial Statistics: A Computer Based Approach with Python</b>
+  <h2>Industrial Statistics: A Computer Based Approach with Python</h2>
 
 by Ron Kenett, Shelemyahu Zacks, Peter Gedeck
 
-Publisher: Springer International Publishing; 1st edition (TBA)
+<ul>
+<li>Publisher: Springer International Publishing; 1st edition (TBA)</li>
 <!--
 ISBN-13: 978-3031075650
 Buy on 
 <a href="https://www.amazon.com/Modern-Statistics-Computer-Based-Technology-Engineering/dp/303107565X/">Amazon</a>, 
 <a href="https://www.barnesandnoble.com/w/modern-statistics-ron-kenett/1141391736">Barnes & Noble</a>
 -->
-<!-- Errata: http://oreilly.com/catalog/errata.csp?isbn=9781492072942 -->
+</ul>
 
-<p>Code and solutions for Industrial Statistics are <a href="IndustrialStatistics">here</a>.</p>
+<p>Code and solutions for Industrial Statistics are <a href="mistat-code-solutions/IndustrialStatistics">here</a>.</p>
 </td>
 </tr>
 
