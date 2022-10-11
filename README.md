@@ -3,7 +3,7 @@
 # Books
 <table>
  <tr>
-  <td><img src='img/OReilly-english.jpg' width=300></td>
+  <td><img src='img/OReilly-english.jpg' width=250></td>
   <td>
    <p><b>Practical Statistics for Data Scientists:</b></p>
 
@@ -22,7 +22,7 @@ by Peter Bruce, Andrew Bruce, and <a href="https://www.amazon.com/Peter-Gedeck/e
   </tr>
 
 <tr>
-<td><img src="img/mlba-bookcover.png" width=300></td>
+<td><img src="img/mlba-bookcover.png" width=250></td>
 <td>
 <h2>Machine Learning for Business Analytics<br>
 <small>Concepts, Techniques, and Applications in R</small></h2>
@@ -42,7 +42,7 @@ by Galit Shmueli, Peter C. Bruce, Peter Gedeck, Inbal Yahav, Nitin R. Patel
 
 
 <tr>
-<td><a href="ModernStatistics"><img src="img/ModernStatistics.png" width=300></a></td>
+<td><a href="ModernStatistics"><img src="img/ModernStatistics.png" width=250></a></td>
 <td>
 <h2>Modern Statistics: A Computer Based Approach with Python</h2>
 
