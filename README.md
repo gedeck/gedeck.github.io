@@ -42,7 +42,7 @@ by Galit Shmueli, Peter C. Bruce, Peter Gedeck, Inbal Yahav, Nitin R. Patel
 
 
 <tr>
-<td><a href="mistat-code-solutions/ModernStatistics/"><img src="img/ModernStatistics.png" width=250></a></td>
+<td><a href="https://gedeck.github.io/mistat-code-solutions/ModernStatistics/"><img src="img/ModernStatistics.png" width=250></a></td>
 <td>
 <h2>Modern Statistics: A Computer Based Approach with Python</h2>
 
@@ -61,7 +61,7 @@ Buy at
 
 <!-- Errata: http://oreilly.com/catalog/errata.csp?isbn=9781492072942 -->
   
-<p>Code and solutions for Modern Statistics are <a href="mistat-code-solutions/ModernStatistics/">here</a>.</p>
+<p>Code and solutions for Modern Statistics are <a href="https://gedeck.github.io/mistat-code-solutions/ModernStatistics/">here</a>.</p>
 </td>
 </tr>
 
