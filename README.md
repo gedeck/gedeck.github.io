@@ -66,22 +66,24 @@ Buy at
 </tr>
 
 <tr>
-<td><!--<img src="../img/IndustrialStatistics.png" width=250>--></td>
+<td><img src="img/IndustrialStatistics.png" width=250></td>
 <td>
-  <h2>Industrial Statistics: A Computer Based Approach with Python</h2>
+  <p>
+    <h2>Industrial Statistics: A Computer Based Approach with Python</h2><br>
+    by Ron Kenett, Shelemyahu Zacks, Peter Gedeck
+  </p>
 
-by Ron Kenett, Shelemyahu Zacks, Peter Gedeck
-
-<ul>
-<li>Publisher: Springer International Publishing; 1st edition (TBA)</li>
-<!--
-ISBN-13: 978-3031075650
-Buy on 
-<a href="https://www.amazon.com/Modern-Statistics-Computer-Based-Technology-Engineering/dp/303107565X/">Amazon</a>, 
-<a href="https://www.barnesandnoble.com/w/modern-statistics-ron-kenett/1141391736">Barnes & Noble</a>
--->
-</ul>
-
+  <p>
+    Publisher: <a href="https://link.springer.com/book/9783031284816">Springer International Publishing; 
+    1st edition (August 5, 2023)</a><br>
+    ISBN-13: 978-3-031-28481-6 (hardcover)<br>
+    ISBN-13: 978-3-031-28484-7 (softcover)<br>
+    ISBN-13: 978-3-031-28482-3 (eBook).<br>
+    Buy at
+    <a href="https://link.springer.com/book/9783031284816">Springer</a>, 
+    <a href="https://www.amazon.com/Industrial-Statistics-Computer-Based-Technology-Engineering/dp/303128481X/">Amazon</a>
+<!--    <a href="https://www.barnesandnoble.com/w/modern-statistics-ron-kenett/1141391736">Barnes & Noble</a>-->
+  </p>
 <p>Code and solutions for Industrial Statistics are <a href="mistat-code-solutions/IndustrialStatistics">here</a>.</p>
 </td>
 </tr>
