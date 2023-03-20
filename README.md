@@ -42,7 +42,7 @@ by Galit Shmueli, Peter C. Bruce, Peter Gedeck, Inbal Yahav, Nitin R. Patel
 
 
 <tr>
-<td><a href="/mistat-code-solutions/ModernStatistics/"><img src="img/ModernStatistics.png" width=250></a></td>
+<td><a href="mistat-code-solutions/ModernStatistics/"><img src="img/ModernStatistics.png" width=250></a></td>
 <td>
 <h2>Modern Statistics: A Computer Based Approach with Python</h2>
 
@@ -61,12 +61,12 @@ Buy at
 
 <!-- Errata: http://oreilly.com/catalog/errata.csp?isbn=9781492072942 -->
   
-<p>Code and solutions for Modern Statistics are <a href="/mistat-code-solutions/ModernStatistics/">here</a>.</p>
+<p>Code and solutions for Modern Statistics are <a href="mistat-code-solutions/ModernStatistics/">here</a>.</p>
 </td>
 </tr>
 
 <tr>
-<td><a href="/mistat-code-solutions/IndustrialStatistics/"><img src="img/IndustrialStatistics.png" width=250></a></td>
+<td><a href="mistat-code-solutions/IndustrialStatistics/"><img src="img/IndustrialStatistics.png" width=250></a></td>
 <td>
   <p>
     <h2>Industrial Statistics: A Computer Based Approach with Python</h2><br>
@@ -84,7 +84,7 @@ Buy at
     <a href="https://www.amazon.com/Industrial-Statistics-Computer-Based-Technology-Engineering/dp/303128481X/">Amazon</a>
 <!--    <a href="https://www.barnesandnoble.com/w/modern-statistics-ron-kenett/1141391736">Barnes & Noble</a>-->
   </p>
-<p>Code and solutions for Industrial Statistics are <a href="/mistat-code-solutions/IndustrialStatistics/">here</a>.</p>
+<p>Code and solutions for Industrial Statistics are <a href="mistat-code-solutions/IndustrialStatistics/">here</a>.</p>
 </td>
 </tr>
 
