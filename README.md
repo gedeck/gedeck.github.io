@@ -1,6 +1,7 @@
 
 
 # Books
+
 <table>
  <tr>
   <td><a href="https://gedeck.github.io/practical-statistics-for-data-scientists/"><img src='img/OReilly-english.jpg' width=250></td>
@@ -18,6 +19,23 @@ by Peter Bruce, Andrew Bruce, and <a href="https://www.amazon.com/Peter-Gedeck/e
    </ul>
 
 <p>Code for Practial Statistics for Data Scientists is <a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">here</a>.</p>
+</td>
+  </tr>
+
+ <tr>
+  <td><a href="https://www.dataminingbook.com/book/python-edition"><img src='img/dmba-python.png' width=250></td>
+  <td>
+   <p><b>Data Mining for Business Analytics:</b></p>
+
+   <p>Concepts, Techniques and Applications in Python<br>
+by Galit Shmueli, Peter C. Bruce, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a>, Inbal Yahav, Nitin R. Patel</p>
+
+   <ul>
+    <li>Publisher: <a href="https://www.wiley.com/en-us/Data+Mining+for+Business+Analytics%3A+Concepts%2C+Techniques+and+Applications+in+Python-p-9781119549840">Wiley</a>; 1st edition (November, 2019)</li>
+   <li>ISBN-13: 978-1-119-54984-0</li>
+    <li>Buy on <a href="https://www.amazon.com/Data-Mining-Business-Analytics-Applications/dp/1119549841/">Amazon</a></li>
+   <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li>
+   </ul>
 </td>
   </tr>
 
