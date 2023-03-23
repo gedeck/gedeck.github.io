@@ -115,6 +115,7 @@
       <a href="https://www.amazon.com/Industrial-Statistics-Computer-Based-Technology-Engineering/dp/303128481X/">Amazon</a>,
       <a href="https://www.barnesandnoble.com/w/industrial-statistics-ron-kenett/1143037516">Barnes & Noble</a>
     </li>
+    </ul>
     <p>Code and solutions for Industrial Statistics are <a href="https://gedeck.github.io/mistat-code-solutions/IndustrialStatistics/">here</a>.</p>
   </td>
 </tr>
