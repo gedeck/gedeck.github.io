@@ -11,7 +11,7 @@
   </td>
   <td>
     <h3>Practical Statistics for Data Scientists:</h3>
-    <h4>50+ Essential Concepts Using R and Python<h4>
+    <h4>50+ Essential Concepts Using R and Python</h4>
     <p>by Peter Bruce, Andrew Bruce, and <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a></p>
 
     <ul>
@@ -35,7 +35,7 @@
   </td>
   <td>
     <h3>Data Mining for Business Analytics:</h3>
-    <h4>Concepts, Techniques and Applications in Python<h4>
+    <h4>Concepts, Techniques and Applications in Python</h4>
     <p>by Galit Shmueli, Peter C. Bruce, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a>, Inbal Yahav, Nitin R. Patel</p>
 
     <ul>
