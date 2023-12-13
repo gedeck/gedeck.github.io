@@ -12,7 +12,8 @@
   <td>
     <h3>Practical Statistics for Data Scientists:</h3>
     <h4>50+ Essential Concepts Using R and Python</h4>
-    <p>by Peter Bruce, Andrew Bruce, and <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a></p>
+    <p>by Peter Bruce, Andrew Bruce, and 
+      <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/?&_encoding=UTF8&tag=petergedeck-20&linkCode=ur2&linkId=17f56e62f0deadfb4a12c22d6c97466d&camp=1789&creative=9325">Peter Gedeck</a></p>
 
     <ul>
       <li>Publisher: <a href="https://oreil.ly/practicalStats_dataSci_2e">O'Reilly Media</a>; 2nd edition (June 9, 2020)</li>
