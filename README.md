@@ -32,6 +32,28 @@
 
  <tr>
   <td>
+    <a href="https://gedeck.github.io/sdsa-code/"><img src='img/sdsa-cover.png' width=250></a>
+  </td>
+  <td>
+    <h3>Statistics for Data Science and Analytics</h3>
+    <p>by Peter C. Bruce, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a>, Janet Dobbins</p>
+
+    <ul>
+    <li>Publisher: Wiley; 1st edition (20242019)</li>
+    <li>ISBN-13: TBD</li>
+    <!--
+    <li>Buy from 
+      <a href="https://www.amazon.com/Data-Mining-Business-Analytics-Applications/dp/1119549841/?&_encoding=UTF8&tag=petergedeck-20&linkCode=ur2&linkId=c6c05be53a79af7ebc5206d188159e14&camp=1789&creative=9325">Amazon</a>,
+      <a href="https://www.barnesandnoble.com/w/data-mining-for-business-analytics-galit-shmueli/1133021862">Barnes & Noble</a>
+    </li>
+    <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li>
+    -->
+    </ul>
+  </td>
+</tr>
+
+ <tr>
+  <td>
     <a href="https://www.dataminingbook.com/book/python-edition"><img src='img/dmba-python.png' width=250></a>
   </td>
   <td>
