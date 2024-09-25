@@ -64,6 +64,7 @@
     <ul>
     <li>Publisher: <a href="https://www.wiley.com/en-us/Data+Mining+for+Business+Analytics%3A+Concepts%2C+Techniques+and+Applications+in+Python-p-9781119549840">Wiley</a>; 1st edition (November, 2019)</li>
     <li>ISBN-13: 978-1-119-54984-0</li>
+    <li>ISBN-13: <a href="https://www.amazon.in/Mining-Business-Analytics-Indian-Adaptation/dp/9357461671/">978-9-357-46167-2</a> (Indian adaptation)</li>
     <li>Buy from 
       <a href="https://www.amazon.com/Data-Mining-Business-Analytics-Applications/dp/1119549841/">Amazon</a>,
       <a href="https://www.barnesandnoble.com/w/data-mining-for-business-analytics-galit-shmueli/1133021862">Barnes & Noble</a>
