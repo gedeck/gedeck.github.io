@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-  <td>
+  <td width=300>
     <a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">
       <img src='img/OReilly-english.jpg' width=250>
     </a>
