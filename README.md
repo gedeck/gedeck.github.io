@@ -43,11 +43,6 @@
 
 <tr>
   <td>
-    <a href="https://gedeck.github.io/mlba-python/">
-      <img src='img/mlba-python-bookcover.png' width=250>
-    </a>
-  </td>
-  <td>
     <h3>Machine Learning for Business Analytics</h3>
     <h4>Concepts, Techniques and Applications in Python</h4>
     <p>by Galit Shmueli, Peter C. Bruce, 
@@ -63,6 +58,11 @@
     </li>
     <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li> -->
     </ul>
+  </td>
+  <td>
+    <a href="https://gedeck.github.io/mlba-python/">
+      <img src='img/mlba-python-bookcover.png' width=250>
+    </a>
   </td>
 </tr>
 
@@ -90,9 +90,6 @@
 
  <tr>
   <td>
-    <a href="https://www.dataminingbook.com/book/python-edition"><img src='img/dmba-python.png' width=250></a>
-  </td>
-  <td>
     <h3>Data Mining for Business Analytics:</h3>
     <h4>Concepts, Techniques and Applications in Python</h4>
     <p>by Galit Shmueli, Peter C. Bruce, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a>, Inbal Yahav, Nitin R. Patel</p>
@@ -107,6 +104,9 @@
     </li>
     <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li>
     </ul>
+  </td>
+  <td>
+    <a href="https://www.dataminingbook.com/book/python-edition"><img src='img/dmba-python.png' width=250></a>
   </td>
 </tr>
 
@@ -137,9 +137,6 @@
 
 <tr>
   <td>
-    <a href="https://gedeck.github.io/mistat-code-solutions/ModernStatistics/"><img src="img/ModernStatistics.png" width=250></a>
-  </td>
-  <td>
     <h3>Modern Statistics: A Computer Based Approach with Python</h3>
 
     <p>by Ron Kenett, Shelemyahu Zacks, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a></p>
@@ -155,6 +152,9 @@
     </ul>
       
     <p>Code and solutions for Modern Statistics are <a href="https://gedeck.github.io/mistat-code-solutions/ModernStatistics/">here</a>.</p>
+  </td>
+  <td>
+    <a href="https://gedeck.github.io/mistat-code-solutions/ModernStatistics/"><img src="img/ModernStatistics.png" width=250></a>
   </td>
 </tr>
 
