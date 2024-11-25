@@ -12,7 +12,7 @@
   <td>
     <h3>Practical Statistics for Data Scientists:</h3>
     <h4>50+ Essential Concepts Using R and Python</h4>
-    <p>by Peter Bruce, Andrew Bruce, and 
+    <p>by Peter C. Bruce, Andrew Bruce, and 
       <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a></p>
 
     <ul>
@@ -27,6 +27,31 @@
 
     <p>Code for Practial Statistics for Data Scientists is <a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">here</a>.</p>
     <p><a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">Translations</a> into several other languages are available.</p>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://gedeck.github.io/mlba-python/">
+      <img src='img/mlba-python-bookcover.png' width=250>
+    </a>
+  </td>
+  <td>
+    <h3>Machine Learning for Business Analytics</h3>
+    <h4>Concepts, Techniques and Applications in Python</h4>
+    <p>by Galit Shmueli, Peter C. Bruce, 
+      <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a>,
+      and Nitin R. Patel</p>
+
+    <ul>
+    <li>Publisher: Wiley; 2nd edition (2025)</li>
+    <!-- <li>ISBN-13: 978-1-119-54984-0</li>
+    <li>Buy from 
+      <a href="https://www.amazon.com/Data-Mining-Business-Analytics-Applications/dp/1119549841/">Amazon</a>,
+      <a href="https://www.barnesandnoble.com/w/data-mining-for-business-analytics-galit-shmueli/1133021862">Barnes & Noble</a>
+    </li>
+    <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li> -->
+    </ul>
   </td>
 </tr>
 
