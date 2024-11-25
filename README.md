@@ -20,7 +20,7 @@
       <img src='img/OReilly-english.jpg' width=250>
     </a>
   </td>
-  <td>
+  <td colspan=2>
     <h3>Practical Statistics for Data Scientists:</h3>
     <h4>50+ Essential Concepts Using R and Python</h4>
     <p>by Peter C. Bruce, Andrew Bruce, and 
@@ -42,7 +42,7 @@
 </tr>
 
 <tr>
-  <td>
+  <td colspan=2>
     <h3>Machine Learning for Business Analytics</h3>
     <h4>Concepts, Techniques and Applications in Python</h4>
     <p>by Galit Shmueli, Peter C. Bruce, 
@@ -70,7 +70,7 @@
   <td>
     <a href="https://gedeck.github.io/sdsa-code/"><img src='img/sdsa-cover.png' width=250></a>
   </td>
-  <td>
+  <td colspan=2>
     <h3>Statistics for Data Science and Analytics</h3>
     <p>by Peter C. Bruce, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a>, Janet Dobbins</p>
 
@@ -89,7 +89,7 @@
 </tr>
 
  <tr>
-  <td>
+  <td colspan=2>
     <h3>Data Mining for Business Analytics:</h3>
     <h4>Concepts, Techniques and Applications in Python</h4>
     <p>by Galit Shmueli, Peter C. Bruce, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a>, Inbal Yahav, Nitin R. Patel</p>
@@ -114,7 +114,7 @@
   <td>
     <a href="https://gedeck.github.io/mlba-R-code/"><img src="img/mlba-bookcover.png" width=250></a>
   </td>
-  <td>
+  <td colspan=2>
     <h3>Machine Learning for Business Analytics</h3>
     <h4>Concepts, Techniques, and Applications in R</h4>
 
@@ -136,7 +136,7 @@
 
 
 <tr>
-  <td>
+  <td colspan=2>
     <h3>Modern Statistics: A Computer Based Approach with Python</h3>
 
     <p>by Ron Kenett, Shelemyahu Zacks, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a></p>
@@ -162,7 +162,7 @@
   <td>
     <a href="https://gedeck.github.io/mistat-code-solutions/IndustrialStatistics/"><img src="img/IndustrialStatistics.png" width=250></a>
   </td>
-  <td>
+  <td colspan=2>
     <h3>Industrial Statistics: A Computer Based Approach with Python</h3>
     <p>by Ron Kenett, Shelemyahu Zacks, <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a></p>
 
