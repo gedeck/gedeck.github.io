@@ -51,12 +51,13 @@
 
     <ul>
     <li>Publisher: Wiley; 2nd edition (2025)</li>
-    <!-- <li>ISBN-13: 978-1-119-54984-0</li>
+    <li>ISBN-13: 978-1-119-54984-0</li>
     <li>Buy from 
-      <a href="https://www.amazon.com/Data-Mining-Business-Analytics-Applications/dp/1119549841/">Amazon</a>,
-      <a href="https://www.barnesandnoble.com/w/data-mining-for-business-analytics-galit-shmueli/1133021862">Barnes & Noble</a>
+      <a href="https://www.amazon.com/Machine-Learning-Business-Analytics-Applications/dp/1394286791/">Amazon</a>,
+      <a href="https://www.barnesandnoble.com/w/machine-learning-for-business-analytics-galit-shmueli/1146602430">Barnes & Noble</a>
     </li>
-    <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li> -->
+    <li>Book webpage: <a href="https://www.dataminingbook.com/editions/python-2nd-edition-june-2025">https://www.dataminingbook.com/editions/python-2nd-edition-june-2025</a></li>
+    <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li>
     </ul>
   </td>
   <td>
@@ -76,12 +77,12 @@
 
     <ul>
     <li>Publisher: Wiley; 1st edition (20242019)</li>
-    <li>ISBN-13: TBD</li>
-    <!--
+    <li>ISBN-13: 978-1394253807</li>
     <li>Buy from 
-      <a href="https://www.amazon.com/Data-Mining-Business-Analytics-Applications/dp/1119549841/">Amazon</a>,
-      <a href="https://www.barnesandnoble.com/w/data-mining-for-business-analytics-galit-shmueli/1133021862">Barnes & Noble</a>
+      <a href="https://www.amazon.com/Statistics-Science-Analytics-Peter-Bruce/dp/139425380X/">Amazon</a>,
+      <a href="https://www.barnesandnoble.com/w/statistics-for-data-science-and-analytics-peter-c-bruce/1145175463">Barnes & Noble</a>
     </li>
+    <!--
     <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li>
     -->
     </ul>
