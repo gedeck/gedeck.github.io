@@ -57,7 +57,9 @@
       <a href="https://www.barnesandnoble.com/w/machine-learning-for-business-analytics-galit-shmueli/1146602430">Barnes & Noble</a>
     </li>
     <li>Book webpage: <a href="https://www.dataminingbook.com/editions/python-2nd-edition-june-2025">https://www.dataminingbook.com/editions/python-2nd-edition-june-2025</a></li>
-    <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li>
+    <!--
+      <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li>
+    -->
     </ul>
   </td>
   <td>
