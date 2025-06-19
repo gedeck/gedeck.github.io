@@ -60,10 +60,11 @@
     <!--
       <li>Errata: <a href="https://www.dataminingbook.com/content/errata-python-edition">https://www.dataminingbook.com/content/errata-python-edition</a></li>
     -->
+    <li>Code for [book chapters](https://gedeck.github.io/mlba-python-notebooks/) and [mlba package](https://gedeck.github.io/mlba-python/)</li>
     </ul>
   </td>
   <td>
-    <a href="https://gedeck.github.io/mlba-python/">
+    <a href="https://www.dataminingbook.com/editions/python-2nd-edition-june-2025">
       <img src='img/mlba-python-bookcover.png' width=250>
     </a>
   </td>
