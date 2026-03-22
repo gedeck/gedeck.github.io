@@ -3,6 +3,7 @@
 # Books
 <table style="margin: 0px auto;">
 <tr>
+  <td><img src='img/OReilly-3e-english.png' width=100></td>
   <td><img src='img/OReilly-english.jpg' width=100></td>
   <td><img src='img/mlba-python-bookcover.png' width=100></td>
   <td><img src='img/sdsa-cover.png' width=100></td>
@@ -14,6 +15,33 @@
 </table>
 
 <table>
+<tr>
+  <td width=300>
+    <a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">
+      <img src='img/OReilly-english.jpg' width=250>
+    </a>
+  </td>
+  <td colspan=2>
+    <h3>AI-Assisted Statistics for Data Scientists:</h3>
+    <h4>50+ Essential Concepts Using R and Python</h4>
+    <p>by Peter C. Bruce, Andrew Bruce, and 
+      <a href="https://www.amazon.com/Peter-Gedeck/e/B082BJZJKX/">Peter Gedeck</a></p>
+
+    <ul>
+      <li>Publisher: <a href="https://learning.oreilly.com/library/view/ai-assisted-statistics-for/0642572242435/">O'Reilly Media</a>; 3rd edition (early release, March, 2026)</li>
+      <li>ISBN-13: 979-8341666283</li>
+      <li>Buy from 
+        <a href="https://www.amazon.com/AI-Assisted-Statistics-Data-Scientists-Essential/dp/B0GK713BRM/">Amazon</a>,
+        <a href="https://www.barnesandnoble.com/w/ai-assisted-statistics-for-data-scientists-peter-bruce/1149312896">Barnes & Noble</a>
+      </li>
+      <!-- <li>Errata: <a href="http://oreilly.com/catalog/errata.csp?isbn=9781492072942">http://oreilly.com/catalog/errata.csp?isbn=9781492072942</a></li> -->
+    </ul>
+
+    <p>Code for Practial Statistics for Data Scientists is <a href="https://gedeck.github.io/ai-assisted-statistics-for-data-scientists/">here</a>.</p>
+    <!-- <p><a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">Translations</a> into several other languages are available.</p> -->
+  </td>
+</tr>
+
 <tr>
   <td width=300>
     <a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">
