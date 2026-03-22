@@ -32,11 +32,11 @@
       <!-- <li>Errata: <a href="http://oreilly.com/catalog/errata.csp?isbn=9781492072942">http://oreilly.com/catalog/errata.csp?isbn=9781492072942</a></li> -->
     </ul>
 
-    <p>Code for Practial Statistics for Data Scientists is <a href="https://gedeck.github.io/ai-assisted-statistics-for-data-scientists/">here</a>.</p>
-    <!-- <p><a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">Translations</a> into several other languages are available.</p> -->
+    <p>Code for AI-Assisted Statistics for Data Scientists is <a href="https://gedeck.github.io/ai-assisted-statistics-for-data-scientists/">here</a>.</p>
+    <!-- <p><a href="https://gedeck.github.io/ai-assisted-statistics-for-data-scientists/">Translations</a> into several other languages are available.</p> -->
   </td>
   <td width=300>
-    <a href="https://gedeck.github.io/practical-statistics-for-data-scientists/">
+    <a href="https://gedeck.github.io/ai-assisted-statistics-for-data-scientists/">
       <img src='img/OReilly-3e-english.png' width=250>
     </a>
   </td>
