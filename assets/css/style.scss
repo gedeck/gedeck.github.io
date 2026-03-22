@@ -14,3 +14,8 @@ td {
 .inner {
     max-width: 800px;
 }
+
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}

@@ -1,6 +1,17 @@
 
 
 # Books
+<div class="book-grid">
+  <div><img src='img/OReilly-3e-english.png' width=100></div>
+  <div><img src='img/OReilly-english.jpg' width=100></div>
+  <div><img src='img/mlba-python-bookcover.png' width=100></div>
+  <div><img src='img/sdsa-cover.png' width=100></div>
+  <div><img src='img/dmba-python.png' width=100></div>
+  <div><img src='img/mlba-bookcover.png' width=100></div>
+  <div><img src='img/ModernStatistics.png' width=100></div>
+  <div><img src='img/IndustrialStatistics.png' width=100></div>
+</div>
+
 <table style="margin: 0px auto;">
 <tr>
   <td><img src='img/OReilly-3e-english.png' width=100></td>
