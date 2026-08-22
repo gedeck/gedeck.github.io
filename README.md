@@ -27,7 +27,7 @@
         <a href="https://www.amazon.com/AI-Assisted-Statistics-Data-Scientists-Essential/dp/B0GK713BRM/">Amazon</a>,
         <a href="https://www.barnesandnoble.com/w/ai-assisted-statistics-for-data-scientists-peter-bruce/1149312896">Barnes & Noble</a>
       </li>
-      <!-- <li>Errata: <a href="http://oreilly.com/catalog/errata.csp?isbn=9781492072942">http://oreilly.com/catalog/errata.csp?isbn=9781492072942</a></li> -->
+      <li>Errata: <a href="https://www.oreilly.com/catalog/errata.csp?isbn=0642572242428">https://www.oreilly.com/catalog/errata.csp?isbn=0642572242428</a></li>
     </ul>
 
     <p>Code for AI-Assisted Statistics for Data Scientists is <a href="https://gedeck.github.io/ai-assisted-statistics-for-data-scientists/">here</a>.</p>
